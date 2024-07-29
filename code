@@ -1,0 +1,19 @@
+Flash sd card
+setup password
+setup wifi
+update
+sudo apt-get update
+upgrade
+sudo apt-get upgrade
+download git folder
+git clone https://DevajMody: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@github.com/physizAg/phyhub-builder.git
+setup account and device config
+(steps to added)
+
+run init-new.sh
+cd phyhub-builder/
+sudo chmod +x init-new.sh
+./init-new.sh
+run start-master.sh
+sudo chmod +x start-master.sh
+./start-master.sh
