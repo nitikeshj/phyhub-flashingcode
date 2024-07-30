@@ -6,7 +6,7 @@ sudo apt-get update
 upgrade
 sudo apt-get upgrade
 download git folder
-git clone https://DevajMody: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@github.com/physizAg/phyhub-builder.git
+
 setup account and device config
 (steps to added)
 
